@@ -1,28 +1,28 @@
 <?php include('header.php'); ?>
 
 <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
-		<ol class="carousel-indicators">
-		  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-		  <li data-target="#myCarousel" data-slide-to="1"></li>
-		  <li data-target="#myCarousel" data-slide-to="2"></li>
-		</ol>
-		<div class="carousel-inner">
-			<div class="lander-caption">
-				<div class="lander-caption-inner container text-center">
-					<h1>Seaside Leisure Township</h1>
-				</div>
-			</div>			
-			<div class="carousel-item active">
-				<img class="first-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/207/large/laurent-dufresne-pool2-render-1080p.jpg?" alt="First slide">            
+	<ol class="carousel-indicators">
+	  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+	  <li data-target="#myCarousel" data-slide-to="1"></li>
+	  <li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>
+	<div class="carousel-inner">
+		<div class="lander-caption">
+			<div class="lander-caption-inner container text-center">
+				<h1>Seaside Leisure Township</h1>
 			</div>
-			<div class="carousel-item">
-				<img class="second-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/209/large/laurent-dufresne-pool1-render-1080p.jpg?" alt="Second slide">            
-			</div>
-			<div class="carousel-item">
-				<img class="third-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/215/large/laurent-dufresne-frontentrance-render-1280p.jpg?" alt="Third slide">            
-			</div>
-		</div>        
-	</div>
+		</div>			
+		<div class="carousel-item active">
+			<img class="first-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/207/large/laurent-dufresne-pool2-render-1080p.jpg?" alt="First slide">            
+		</div>
+		<div class="carousel-item">
+			<img class="second-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/209/large/laurent-dufresne-pool1-render-1080p.jpg?" alt="Second slide">            
+		</div>
+		<div class="carousel-item">
+			<img class="third-slide" src="https://cdnb.artstation.com/p/assets/images/images/007/726/215/large/laurent-dufresne-frontentrance-render-1280p.jpg?" alt="Third slide">            
+		</div>
+	</div>        
+</div>
 	
 	<div class="intro-container">
 		<div class="container">
@@ -43,25 +43,25 @@
 			  <figcaption>				
 				<h3 class="title3">Bridgeport</h3>
 				<h3 class="title2">Park</h3>
-			  </figcaption><a href="#"></a>
+			  </figcaption><a href="project-park.php"></a>
 			</figure>
 			<figure class="col-md-3 component-box"><img src="http://dreamhome.fortune-creations.com/dreamhome-single-property/wp-content/uploads/2015/08/2-1.png" alt="profile-sample2"/>				
 			  <figcaption>
 				<h3 class="title3">Bridgeport</h3>
 				<h3 class="title2">Condominium</h3>
-			  </figcaption><a href="#"></a>
+			  </figcaption><a href="project-condominium.php"></a>
 			</figure>
 			<figure class="col-md-3 component-box"><img src="http://dreamhome.fortune-creations.com/dreamhome-single-property/wp-content/uploads/2015/08/7.png" alt="profile-sample6"/>
 			  <figcaption>
 				<h3 class="title3">Bridgeport</h3>
 				<h3 class="title2">Terraces</h3>
-			  </figcaption><a href="#"></a>
+			  </figcaption><a href="project-terraces.php"></a>
 			</figure>
 			<figure class="col-md-3 component-box"><img src="http://dreamhome.fortune-creations.com/dreamhome-single-property/wp-content/uploads/2015/08/11-2.png" alt="profile-sample6"/>
 			  <figcaption>
 				<h3 class="title3">Bridgeport</h3>
 				<h3 class="title2">Marina</h3>
-			  </figcaption><a href="#"></a>
+			  </figcaption><a href="project-marina.php"></a>
 			</figure>
 		</div>
 	</div>
@@ -169,53 +169,6 @@
 		</div>
 	</div>
 		
-		<!-- Modal -->
-	<div class="modal fade" id="inquireModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-	  <div class="modal-dialog" role="document">
-		<div class="modal-content">
-		  <div class="modal-header">
-			<h5 class="modal-title" id="exampleModalLabel">Inquire With Us</h5>
-			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-			  <span aria-hidden="true">&times;</span>
-			</button>
-		  </div>
-		  <div class="modal-body">
-			<form class="quote-form">
-			  <div class="row">
-				<div class="col-md-6">
-					<div class="form-group">
-					  <input type="text" class="form-control" placeholder="Name">
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="form-group">
-					  <input type="text" class="form-control" placeholder="Email Address">
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="form-group">
-					  <input type="text" class="form-control" placeholder="Contact Number">
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="form-group">
-					  <input type="text" class="form-control" placeholder="Company (if any)">
-					</div>
-				</div>
-				<div class="col-md-12">
-					<div class="form-group">
-					  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
-					</div>
-				</div>
-			  </div>
-			</form>
-		  </div>
-		  <div class="modal-footer">
-			<button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
-			<button type="button" class="btn btn-primary">Submit</button>
-		  </div>
-		</div>
-	  </div>
-	</div>
+	
 	
 <?php include('footer.php'); ?>

@@ -79,6 +79,14 @@ body {
  .navbar-toggler-icon {
      background-image: url("https://image.flaticon.com/icons/png/128/462/462998.png");
 }
+.input-search {
+	border: 1px solid #cdcdcd !important;
+}
+.dm-search{
+	width: 300px;
+	padding: 10px;
+	margin-left: -270px;
+}
  .inquire-box {
      position: fixed;
      z-index: 999;

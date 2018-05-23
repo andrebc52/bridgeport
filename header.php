@@ -37,9 +37,9 @@
 					<a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects</a>
 					<div class="dropdown-menu" aria-labelledby="dropdown01">
 					  <a class="dropdown-item" href="project-park.php">Bridgeport Park</a>
-					  <a class="dropdown-item" href="#">Bridgeport Condominium</a>
-					  <a class="dropdown-item" href="#">Bridgeport Terraces</a>
-					  <a class="dropdown-item" href="#">Bridgeport Marina</a>
+					  <a class="dropdown-item" href="project-condominium.php">Bridgeport Condominium</a>
+					  <a class="dropdown-item" href="project-terraces.php">Bridgeport Terraces</a>
+					  <a class="dropdown-item" href="project-marina.php">Bridgeport Marina</a>
 					</div>
 				</li>
 				<li class="nav-item">
@@ -49,11 +49,21 @@
 				  <a class="nav-link" href="#">Blog</a>
 				</li>
 				<li class="nav-item">
-				  <a class="nav-link" href="#">Gallery</a>
+				  <a class="nav-link" href="gallery.php">Gallery</a>
 				</li>
-				<li class="nav-item">
-				  <a class="nav-link" href="#"><i class="fas fa-search"></i></a>
-				</li>				
+				<li class="nav-item dropdown">
+					<a class="nav-link" href="#" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<i class="fas fa-search"></i>
+					</a>
+					<div class="dropdown-menu dm-search" aria-labelledby="dropdown02">
+						<div class="input-group">
+						  <input type="text" class="form-control input-search">
+						  <div class="input-group-append">
+							<button class="btn btn-outline-secondary" type="button">Search</button>
+						  </div>
+						</div>
+					</div>
+				</li>
 			  </ul>			  
 			</div>
 		</div>
