@@ -265,16 +265,27 @@ body {
      padding: 0px;
 }
  .blog-container {
-     background: #fff;
-     text-decoration: none;
-     padding: 80px 0;
+    background: #fff url(https://images2.alphacoders.com/544/thumb-1920-544236.jpg);
+        background-attachment: scroll;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+    text-decoration: none;
+    padding: 80px 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+    margin-top: -6px;
 }
- .blog-box {
-     position: relative;
-     overflow: hidden;
-     width: 100%;
-     background-color: #ffffff;
-     text-align: center;
+.blog-box {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    color: #333;
 }
  .blog-box * {
      -webkit-box-sizing: border-box;
@@ -306,7 +317,7 @@ body {
 }
  .blog-box .date {
      background-color: #fff;
-     top: 15px;
+     top: 20px;
      color: #333;
      right: 20px;
      min-height: 48px;

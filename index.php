@@ -78,7 +78,6 @@
 				<div class="col-md-6 offset-md-3 text-center">
 					<div class="section-heading">
 						<h2>Latest From Our Blog</h2>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p>
 					</div>
 				</div>
 			</div>
