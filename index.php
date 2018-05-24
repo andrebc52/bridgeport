@@ -88,9 +88,9 @@
 					<div class="date"><span class="day">28</span><span class="month">Oct</span></div>
 					<h3>The World Ended Yesterday</h3>
 					<p>
-
 					  You know what we need, Hobbes? We need an attitude. Yeah, you can't be cool if you don't have an attitude.
-					</p>					
+					</p>
+					<small>Read More</small>					
 				  </figcaption>
 				  <a href="#"></a>
 				</figure>
@@ -100,9 +100,9 @@
 					<div class="date"><span class="day">17</span><span class="month">Nov</span></div>
 					<h3>An Abstract Post Heading</h3>
 					<p>
-
 					  Sometimes the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.
-					</p>					
+					</p>
+					<small>Read More</small>					
 				  </figcaption>
 				  <a href="#"></a>
 				</figure>
@@ -112,9 +112,9 @@
 					<div class="date"><span class="day">01</span><span class="month">Dec</span></div>
 					<h3>Down with this sort of thing</h3>
 					<p>
-
 					  I don't need to compromise my principles, because they don't have the slightest bearing on what happens to me anyway.
-					</p>					
+					</p>
+					<small>Read More</small>
 				  </figcaption>
 				  <a href="#"></a>
 				</figure>

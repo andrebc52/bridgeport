@@ -4,7 +4,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h3>Blog</h3>
+				<h3>About Us</h3>
 				
 			</div>
 		</div>

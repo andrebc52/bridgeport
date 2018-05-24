@@ -6,15 +6,13 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
-    <title>Bridgeport-Damosaland</title>
+    <title>Bridgeport-Damosaland</title>	
+	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
     <!-- Custom styles -->
 	<link rel="stylesheet" href="custom.css">
-    <style>
-	
-	</style>
   </head>
   <body>	
     <header>
